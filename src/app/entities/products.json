@@ -1,0 +1,26 @@
+[
+  {
+    "ProductID": 1,
+    "ProductName": "Product A"
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "Product B"
+  },
+  {
+    "ProductID": 3,
+    "ProductName": "Product C"
+  },
+  {
+    "ProductID": 4,
+    "ProductName": "Product D"
+  },
+  {
+    "ProductID": 5,
+    "ProductName": "Product E"
+  },
+  {
+    "ProductID": 6,
+    "ProductName": "Product F"
+  }
+]

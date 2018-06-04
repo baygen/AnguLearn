@@ -1,0 +1,16 @@
+<ul>
+  <li>
+    <a [routerLink]="['/Product']">Product</a>
+  </li>
+  <li>
+    <a [routerLink]="['/Inventory']">Inventory</a>
+  </li>
+</ul>
+<router-outlet></router-outlet>
+<h2 style="color:#069">Hello {{name}} {{family}}</h2>
+<div *ngIf='status'>Tutorialspoint </div>
+<div *ngFor='let lst of iproducts'>
+  <ul>
+    <li>{{lst.ProductID}} {{lst.ProductName}}</li>
+  </ul>
+</div>
